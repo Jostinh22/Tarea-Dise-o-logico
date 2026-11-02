@@ -1,2 +1,2 @@
-# Tarea-Dise-o-logico
+# Tarea-Diseño-logico
 Tarea codigo
